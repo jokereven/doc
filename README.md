@@ -2,7 +2,7 @@
 
 [code520.com.cn](http://code520.com.cn)
 
-[cmd.code520.com.cn](http://cmd.code520.com.cn)
+[blog.code520.com.cn](http://blog.code520.com.cn)
 
 [doc.code520.com.cn](http://doc.code520.com.cn)
 
@@ -33,4 +33,4 @@
 
 `QQ: 3440681909`
 `微信: ZHOU125disorder`
-`邮箱: zhou125disorder@qmail.com`
+`邮箱: zhou125disorder@gmail.com`
