@@ -6,6 +6,8 @@
 
 [doc.code520.com.cn](http://doc.code520.com.cn)
 
+[cmd.code520.com.cn](http://cmd.code520.com.cn)
+
 [freelancer.code520.com.cn](http://freelancer.code520.com.cn/)
 
 #### `学习路线`
