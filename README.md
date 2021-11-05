@@ -34,6 +34,6 @@
 ```
 
 `QQ: 3440681909`
-`微信: ZHOU125disorder`
+`微信: jokereven125`
 `邮箱: zhou125disorder@gmail.com`
 `docsify serve`
