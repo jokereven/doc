@@ -6,24 +6,22 @@
 
 [doc.code520.com.cn](http://doc.code520.com.cn)
 
-[cmd.code520.com.cn](http://cmd.code520.com.cn)
-
-[freelancer.code520.com.cn](http://freelancer.code520.com.cn/)
-
 #### `学习路线`
 
 ##### `前端`
+
 `鱼皮`：[https://code-learning-gamma.vercel.app/#/](https://code-learning-gamma.vercel.app/#/)
 
 `objtube`：[https://objtube.github.io/front-end-roadmap/#/](https://objtube.github.io/front-end-roadmap/#/)
 
 ##### `Golang`
+
 `GOLANG ROADMAP`：[https://www.golangroadmap.com/](https://www.golangroadmap.com/)
 
 `liwenzhou`：[https://liwenzhou.com/](https://liwenzhou.com/)
 
-
 #### `ToSay`
+
 ```js
 被逼到墙角然后欣赏自己谋求生路...冲出去又发现歧路蔓延...
 但终点不远却暗色...选择直线是我的风格...
