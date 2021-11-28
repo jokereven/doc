@@ -4,6 +4,8 @@
 
 - [GO](/GO/)
 
+- [Introduction](/Introduction/)
+
 - [React](/React/)
 
 - [Taro](/Taro/)
