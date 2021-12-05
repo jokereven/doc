@@ -1,1 +1,1 @@
-- [struct](/GO/struct.md)
+- [Golang-Struct](/GO/struct.md)
