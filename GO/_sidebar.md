@@ -1,1 +1,0 @@
-- [Golang-Struct](/GO/struct.md)

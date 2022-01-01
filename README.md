@@ -1,4 +1,6 @@
-#### `jokereven的创业计划`
+# `写代码的薛`
+
+## `站点`
 
 [code520.com.cn](http://code520.com.cn)
 
@@ -6,13 +8,18 @@
 
 [doc.code520.com.cn](http://doc.code520.com.cn)
 
-#### `学习路线`
+> 学习方向
 
-##### `前端`
+### `操作系统`
+
+
+#### `前端`
 
 `鱼皮`：[https://code-learning-gamma.vercel.app/#/](https://code-learning-gamma.vercel.app/#/)
 
 `objtube`：[https://objtube.github.io/front-end-roadmap/#/](https://objtube.github.io/front-end-roadmap/#/)
+
+#### `后端`
 
 ##### `Golang`
 
@@ -20,7 +27,19 @@
 
 `liwenzhou`：[https://liwenzhou.com/](https://liwenzhou.com/)
 
-#### `ToSay`
+##### `Java`
+
+`鱼皮Java`：[https://luxian.yupi.icu/#/roadmap/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF](https://luxian.yupi.icu/#/roadmap/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF)
+
+##### `Python`
+
+`鱼皮Python`：[https://luxian.yupi.icu/#/roadmap/Python%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF](https://luxian.yupi.icu/#/roadmap/Python%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF)
+
+`Jack-Cui`：[https://www.bilibili.com/video/BV1Xf4y1j7Np](https://www.bilibili.com/video/BV1Xf4y1j7Np)
+
+##### `更多精彩加载中................................`
+
+###### `ToSay`
 
 ```js
 被逼到墙角然后欣赏自己谋求生路...冲出去又发现歧路蔓延...
