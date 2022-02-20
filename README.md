@@ -8,10 +8,6 @@
 
 [doc.code520.com.cn](http://doc.code520.com.cn)
 
-## `自动部署`
-
-[自动部署](https://github.com/fuzhengwei/guide-webhooks)
-
 > 学习方向
 
 #### `操作系统`
