@@ -55,3 +55,6 @@
 `微信: jokereven1215`
 `邮箱: zjing125.cn@gmail.com`
 `docsify serve`
+
+[自动部署](https://github.com/fuzhengwei/guide-webhooks)
+
