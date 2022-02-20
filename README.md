@@ -8,6 +8,10 @@
 
 [doc.code520.com.cn](http://doc.code520.com.cn)
 
+## `自动部署`
+
+[自动部署](https://github.com/fuzhengwei/guide-webhooks)
+
 > 学习方向
 
 #### `操作系统`
@@ -55,7 +59,3 @@
 `微信: jokereven1215`
 `邮箱: zjing125.cn@gmail.com`
 `docsify serve`
-
-[自动部署](https://github.com/fuzhengwei/guide-webhooks)
-[自动部署](https://github.com/fuzhengwei/guide-webhooks)
-[自动部署](https://github.com/fuzhengwei/guide-webhooks)
