@@ -14,6 +14,10 @@
 
 [视频](https://www.bilibili.com/video/BV11S4y1d7hS)
 
+[使用Github的 WebHooks 进行网站自动化部署](https://segmentfault.com/a/1190000016071010)
+
+[使用Github的webhooks进行网站自动化部署](https://jelly.jd.com/article/6006b1025b6c6a01506c878a)
+
 > 学习方向
 
 #### `操作系统`
