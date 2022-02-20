@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [GO](/GO/)
+- [Gopher](/Gopher/)
 
 - [HTMLCSS](/HTMLCSS/)
 
