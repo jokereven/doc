@@ -61,7 +61,7 @@
 我无悔...为理想坚持吧...哈...
 ```
 
-`QQ: 2178066226`
-`微信: jokereven1215`
+`QQ: 3440681909`
+`微信: jokereven125`
 `邮箱: zjing125.cn@gmail.com`
 `docsify serve`
